@@ -28,6 +28,12 @@ My experience spans **Backend Development, IoT Integration, Media Streaming, and
 - ☁ **Infrastructure:** Ubuntu servers, Dockerized services, media streaming 📡
 - 🎯 **Goal:** Ship end-to-end products that actually work in production 💪
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Hoang-Nhat-Minh&theme=dark&date_format=M%20j%5B%2C%20Y%5D&" height="400" alt="streak graph"  />
+</div>
+
 ## 🤝 Connect with me
 
 <div align="center">
