@@ -1,15 +1,15 @@
 <h1 align="center">Hey 👋 I'm Minh</h1>
 
 <p align="center">
-  <strong>IT Student | Software Developer | System Explorer</strong>
+  <strong>Software Developer | System-Oriented Builder</strong>
 </p>
 
 <div align="center">
-  <img src="about.svg" />
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=26&duration=3500&pause=1000&color=EE6D9B&center=true&vCenter=true&width=700&lines=Code+clean+systems;Gaming+to+recharge+energy;Anime+%7C+Manga+%7C+Movies+lover;Build.+Break.+Learn.+Repeat." />
 </div>
 
 <p align="center">
-  <img src="a.jpg" alt="Minh's Profile Picture" width="100%" style="border-radius: 50%; border: 2px solid #58A6FF;" />
+  <img src="a.jpg" alt="Minh's Profile Picture" width="100%"/>
 </p>
 
 ---
@@ -59,6 +59,8 @@ I am a **Software Developer** focused on building practical, real-world systems.
 
 
 <p align="center">
-  <img src="slogan.svg" />
+  <br />
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=26&duration=4000&pause=1200&color=EE6D9B&center=true&vCenter=true&width=800&lines=Focus+on+learning+first+—+results+will+follow.;The+more+I+learn,+the+more+I+realize+how+little+I+know+—+so+I+keep+learning." />
 </p>
+
 
