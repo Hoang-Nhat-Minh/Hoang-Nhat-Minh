@@ -13,13 +13,16 @@
 </div>
 
 ## 🛠 Tech Stack
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=visualstudio,vscode,powershell,html,css,js,react,vue,bootstrap,tailwind,jquery,php,phpstorm,nodejs,npm,laravel,py,flutter,mysql,mongodb,linux,ubuntu,docker,postman,git,github,githubactions,pytorch,tensorflow,cpp,cs,java,twitter&perline=10" width="600" />
 </div>
 
-## 💫 About Me
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Hoang-Nhat-Minh&theme=dark" height="150" alt="streak graph"  />
+</div>
 
+## 💫 About Me
 I’m a **Software Developer** who enjoys turning complex ideas into **working systems** (≧◡≦) ♡  
 My experience spans **Backend Development, IoT Integration, Media Streaming, and Computer Vision**.
 
@@ -28,31 +31,20 @@ My experience spans **Backend Development, IoT Integration, Media Streaming, and
 - ☁ **Infrastructure:** Ubuntu servers, Dockerized services, media streaming 📡
 - 🎯 **Goal:** Ship end-to-end products that actually work in production 💪
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Hoang-Nhat-Minh&theme=dark" height="150" alt="streak graph"  />
-</div>
-
 ## 🤝 Connect with me
-
 <div align="center">
   <a href="mailto:hoangnhatminh10042004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
   <a href="https://facebook.com/hoang.nhat.minh.april.10" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-
   <a href="https://instagram.com/hoang.nhat.minh.april.10" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-
   <a href="https://twitter.com/KamiMinh" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-
   <a href="https://discord.gg/6rskhQWT" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
@@ -63,11 +55,9 @@ My experience spans **Backend Development, IoT Integration, Media Streaming, and
 </p>
 
 ## ❤ Thanks for stopping by
-
 <p align="center">
   <i>See you around — keep building cool things ✨ <3</i>
 </p>
-
 <p align="center">
   <img src="byebye.gif" alt="Minh's Profile Picture" width="50%"/>
 </p>
