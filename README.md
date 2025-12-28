@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=26&duration=3500&pause=1000&color=EE6D9B&center=true&vCenter=true&width=700&lines=Code+clean+systems;Gaming+to+recharge+energy;Anime+%7C+Manga+%7C+Movies+lover;Build.+Break.+Learn.+Repeat." />
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&duration=3500&pause=1000&color=EE6D9B&center=true&vCenter=true&width=700&lines=Code+clean+systems;Gaming+to+recharge+energy;Anime+%7C+Manga+%7C+Movies+lover;Build.+Break.+Learn.+Repeat." />
 </div>
 
 <p align="center">
@@ -52,15 +52,16 @@ I am a **Software Developer** focused on building practical, real-world systems.
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 
-  <a href="https://discord.gg/yourinvite" target="_blank">
+  <a href="https://discord.gg/6rskhQWT" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </div>
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=26&duration=4000&pause=1200&color=EE6D9B&center=true&vCenter=true&width=800&lines=Focus+on+learning+first+—+results+will+follow.;The+more+I+learn,+the+more+I+realize+how+little+I+know+—+so+I+keep+learning." />
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=26&duration=4000&pause=1200&color=EE6D9B&center=true&vCenter=true&width=800&lines=Focus+on+learning+first+-+results+will+follow.;The+more+I+learn,+the+more+I+realize+how+little+I+know+-+so+I+keep+learning." />
 </p>
+
 
 
 
