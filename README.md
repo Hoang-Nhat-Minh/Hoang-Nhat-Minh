@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=40&duration=3500&pause=1000&color=EE6D9B&center=true&vCenter=true&width=820&lines=Engineering+systems+with+care+%E2%98%95+%E2%98%95;Gaming+to+relax+and+reset+%28%E2%99%AB+%5E_%5E%29;Anime+%7C+Manga+%7C+Movies+fan+%28%E3%83%BD%E2%97%95%E3%83%AE%E2%97%95%29%E3%83%8E;Build.+Break.+Learn.+Repeat.+%28%E0%B9%91%5E_%5E%E0%B9%91%29+%3C3" />
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=40&duration=3500&pause=1000&color=EE6D9B&center=true&vCenter=true&width=820&lines=Engineering+systems+with+care+%28%EF%BF%A3%EF%B8%B6%EF%BF%A3%29;Gaming+to+relax+and+reset+%28%E2%99%AB+%5E_%5E%29;Anime+%7C+Manga+%7C+Movies+fan+%28%E3%83%BD%E2%97%95%E3%83%AE%E2%97%95%29%E3%83%8E;Build.+Break.+Learn.+Repeat.+%28%E0%B9%91%5E_%5E%E0%B9%91%29+%3C3" />
 </div>
 
 ## 🛠 Tech Stack
