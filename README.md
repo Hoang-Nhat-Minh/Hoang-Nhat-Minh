@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hoang-Nhat-Minh&label=Profile%20Views&color=0e75b6&style=flat-square" />
+  <img src="about.svg" />
 </div>
 
 <div align="center">
@@ -13,7 +13,7 @@
 </div>
 
 <p align="center">
-  <img src="a.jpg" alt="Minh's Profile Picture" width="180" style="border-radius: 50%; border: 2px solid #58A6FF;" />
+  <img src="a.jpg" alt="Minh's Profile Picture" width="100%" style="border-radius: 50%; border: 2px solid #58A6FF;" />
 </p>
 
 ---
@@ -43,18 +43,26 @@ I am a **Software Developer** focused on building practical, real-world systems.
   <a href="mailto:hoangnhatminh10042004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://facebook.com/yourprofile" target="_blank">
+
+  <a href="https://facebook.com/hoang.nhat.minh.april.10" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://instagram.com/yourusername" target="_blank">
+
+  <a href="https://instagram.com/hoang.nhat.minh.april.10" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://twitter.com/yourusername" target="_blank">
+
+  <a href="https://twitter.com/KamiMinh" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+
+  <a href="https://discord.gg/yourinvite" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </div>
 
+
 <p align="center">
-  <br />
-  <i>Engineering simple solutions for complex systems.</i>
+  <img src="slogan.svg" />
 </p>
+
