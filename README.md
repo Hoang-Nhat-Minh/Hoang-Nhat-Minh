@@ -30,9 +30,7 @@ My experience spans **Backend Development, IoT Integration, Media Streaming, and
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Hoang-Nhat-Minh&theme=dark&date_format=M%20j%5B%2C%20Y%5D&" height="400" alt="streak graph"  />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Hoang-Nhat-Minh&theme=dark&date_format=M%20j%5B%2C%20Y%5D&card_width=500&card_height=200)](https://git.io/streak-stats)
 
 ## 🤝 Connect with me
 
