@@ -63,5 +63,5 @@ My experience spans **Backend Development, IoT Integration, Media Streaming, and
 </p>
 
 <p align="center">
-  <img src="bye.gif" alt="Minh's Profile Picture" width="100%"/>
+  <img src="goodbye.gif" alt="Minh's Profile Picture" width="100%"/>
 </p>
