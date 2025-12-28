@@ -24,6 +24,17 @@
   <img src="https://streak-stats.demolab.com/?user=Hoang-Nhat-Minh&theme=dark" height="150" alt="streak graph"  />
 </div>
 
+<div align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=hoang-nhat-minh&style=for-the-badge&color=ee6d9b" 
+    alt="Profile Views"
+  />
+  <img 
+    src="https://img.shields.io/github/followers/hoang-nhat-minh?style=for-the-badge&color=ee6d9b&label=Followers" 
+    alt="GitHub Followers"
+  />
+</div>
+
 ## 💫 About Me
 
 I’m a **Software Developer** who enjoys turning complex ideas into **working systems** (≧◡≦) ♡  
