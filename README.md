@@ -8,10 +8,6 @@
   <img src="about.svg" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Code+clean+systems;Gaming+to+recharge+energy;Anime+%7C+Manga+%7C+Movies+lover;Build.+Break.+Learn.+Repeat." />
-</div>
-
 <p align="center">
   <img src="a.jpg" alt="Minh's Profile Picture" width="100%" style="border-radius: 50%; border: 2px solid #58A6FF;" />
 </p>
