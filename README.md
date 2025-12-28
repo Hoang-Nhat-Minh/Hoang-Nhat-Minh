@@ -59,8 +59,8 @@ I am a **Software Developer** focused on building practical, real-world systems.
 
 
 <p align="center">
-  <br />
   <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=26&duration=4000&pause=1200&color=EE6D9B&center=true&vCenter=true&width=800&lines=Focus+on+learning+first+—+results+will+follow.;The+more+I+learn,+the+more+I+realize+how+little+I+know+—+so+I+keep+learning." />
 </p>
+
 
 
