@@ -15,7 +15,7 @@
 ## 🛠 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,py,js,flutter,mysql,ubuntu,docker,git,github,githubactions,opencv,tensorflow,cpp,cs,java&perline=8" width="800" />
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,powershell,html,css,js,react,vue,bootstrap,tailwind,jquery,php,phpstorm,nodejs,npm,laravel,py,flutter,mysql,mongodb,linux,ubuntu,docker,postman,git,github,githubactions,pytorch,tensorflow,cpp,cs,java,twitter&perline=8" width="800" />
 </div>
 
 ## 💫 About Me
