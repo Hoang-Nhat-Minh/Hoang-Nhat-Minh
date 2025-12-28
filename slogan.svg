@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="50" viewBox="0 0 900 50">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+      .text {
+        font-family: 'Righteous', cursive;
+        font-size: 26px;
+        fill: #ee6d9b;
+      }
+
+      .line1 {
+        animation: show1 8s infinite;
+      }
+
+      .line2 {
+        animation: show2 8s infinite;
+      }
+
+      @keyframes show1 {
+        0%   { clip-path: inset(0 100% 0 0); opacity: 1; }
+        40%  { clip-path: inset(0 0 0 0); opacity: 1; }
+        50%  { opacity: 0; }
+        100% { opacity: 0; }
+      }
+
+      @keyframes show2 {
+        0%   { opacity: 0; }
+        50%  { clip-path: inset(0 100% 0 0); opacity: 1; }
+        90%  { clip-path: inset(0 0 0 0); opacity: 1; }
+        100% { opacity: 0; }
+      }
+    </style>
+  </defs>
+
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" class="text line1">
+    Focus on learning first — results will follow.
+  </text>
+
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" class="text line2">
+    The more I learn, the more I realize how little I know — so I keep learning.
+  </text>
+</svg>
