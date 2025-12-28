@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 I'm Minh</h1>
 
 <p align="center">
-  <strong>Software Developer | System-Oriented Builder</strong>
+  <strong>Software Developer | System-Oriented Builder</strong> <3
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=40&duration=3500&pause=1000&color=EE6D9B&center=true&vCenter=true&width=700&lines=Code+clean+systems;Gaming+to+recharge+energy;Anime+%7C+Manga+%7C+Movies+lover;Build.+Break.+Learn.+Repeat." />
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=40&duration=3500&pause=1000&color=EE6D9B&center=true&vCenter=true&width=820&lines=Engineering+systems+with+care+%28%E2%98%95_%E2%98%95%29;Gaming+to+relax+and+reset+%28%E2%99%AB+%5E_%5E%29;Anime+%7C+Manga+%7C+Movies+fan+%28%E3%83%BD%E2%97%95%E3%83%AE%E2%97%95%29%E3%83%8E;Build.+Break.+Learn.+Repeat.+%28%E0%B9%91%5E_%5E%E0%B9%91%29+%3C3" />
 </div>
 
 ## 🛠 Tech Stack
@@ -20,12 +20,13 @@
 
 ## 💫 About Me
 
-I am a **Software Developer** focused on building practical, real-world systems. My experience spans **Backend Development, IoT Integration, Media Streaming, and Computer Vision**.
+I’m a **Software Developer** who enjoys turning complex ideas into **working systems** (≧◡≦) ♡  
+My experience spans **Backend Development, IoT Integration, Media Streaming, and Computer Vision**.
 
-- 🔭 **Working on:** Real-time IoT systems and AI-powered vision applications.
-- 🏗 **Mindset:** Strong system-thinking, from sensors to backend to UI.
-- ☁ **Infrastructure:** Experience with Ubuntu servers, Dockerized services, and media streaming.
-- 🎯 **Goal:** Build end-to-end products that actually work in production.
+- 🔭 **Currently building:** Real-time IoT systems & AI-powered vision apps ⚙️
+- 🏗 **Mindset:** System thinking — from sensors → backend → UI 🧠
+- ☁ **Infrastructure:** Ubuntu servers, Dockerized services, media streaming 📡
+- 🎯 **Goal:** Ship end-to-end products that actually work in production 💪
 
 ## 🤝 Connect with me
 
@@ -52,9 +53,5 @@ I am a **Software Developer** focused on building practical, real-world systems.
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=20&duration=4000&pause=1200&color=EE6D9B&center=true&vCenter=true&width=800&lines=Focus+on+learning+first+-+results+will+follow.;The+more+I+learn,+the+more+I+realize+how+little+I+know+-+so+I+keep+learning." />
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=20&duration=4200&pause=1300&color=EE6D9B&center=true&vCenter=true&width=880&lines=Focus+on+learning+first+%E2%80%94+results+will+follow+%28%E2%9D%A4%29;The+more+I+learn,+the+more+I+realize+how+little+I+know+%28%E3%83%BD%E2%97%95%E3%83%AE%E2%97%95%29%E3%83%8E+%3C3" />
 </p>
-
-
-
-
