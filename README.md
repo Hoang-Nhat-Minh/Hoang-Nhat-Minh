@@ -30,7 +30,9 @@ My experience spans **Backend Development, IoT Integration, Media Streaming, and
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Hoang-Nhat-Minh&theme=dark&date_format=M%20j%5B%2C%20Y%5D&card_width=500&card_height=200)](https://git.io/streak-stats)
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Hoang-Nhat-Minh&theme=dark" height="150" alt="streak graph"  />
+</div>
 
 ## 🤝 Connect with me
 
@@ -57,7 +59,7 @@ My experience spans **Backend Development, IoT Integration, Media Streaming, and
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=20&duration=4200&pause=1300&color=EE6D9B&center=true&vCenter=true&width=880&lines=Focus+on+learning+first+%E2%80%94+results+will+follow+%28%E2%9D%A4%29;The+more+I+learn,+the+more+I+realize+how+little+I+know+%28%E3%83%BD%E2%97%95%E3%83%AE%E2%97%95%29%E3%83%8E+%3C3" />
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=15&duration=4200&pause=1300&color=EE6D9B&center=true&vCenter=true&width=880&lines=Focus+on+learning+first+%E2%80%94+results+will+follow+%28%E2%9D%A4%29;The+more+I+learn,+the+more+I+realize+how+little+I+know+%28%E3%83%BD%E2%97%95%E3%83%AE%E2%97%95%29%E3%83%8E+%3C3" />
 </p>
 
 ## ❤ Thanks for stopping by
