@@ -36,27 +36,18 @@ I enjoy designing **clean architectures**, connecting **hardware with software**
 
 ---
 
-## 📊 GitHub Stats
 
+## 📊 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hoang-Nhat-Minh&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hoang-Nhat-Minh&layout=compact&theme=dracula&langs_count=6" />
+  <img height="180em"
+       src="https://api.github-readme-stats.vercel.app/api?username=Hoang-Nhat-Minh&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800" />
+  <img height="180em"
+       src="https://api.github-readme-stats.vercel.app/api/top-langs/?username=Hoang-Nhat-Minh&layout=compact&theme=dracula&langs_count=6&cache_seconds=1800" />
 </div>
 
----
-
-## 👾 Contribution Journey
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Hoang-Nhat-Minh/hocsinh/output/pacman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Hoang-Nhat-Minh/hocsinh/output/pacman-contribution-graph.svg" />
-  <img alt="pacman contribution graph"
-    src="https://raw.githubusercontent.com/Hoang-Nhat-Minh/hocsinh/output/pacman-contribution-graph.svg" />
-</picture>
 
 ---
+
 
 ## 🤝 Connect with me
 
