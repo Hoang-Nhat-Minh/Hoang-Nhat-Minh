@@ -20,9 +20,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Hoang-Nhat-Minh&theme=dark" height="150" alt="streak graph"  />
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hoang-Nhat-Minh&theme=dark)
 
 <div align="center">
   <img 
